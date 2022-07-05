@@ -1,7 +1,6 @@
 # EdgeAI
-- STM32 MCU에서 Deep Learning 구현
-
 <img width="630" alt="ML_Steps" src="https://user-images.githubusercontent.com/108709679/177252061-450444c1-bd9c-42bb-9da8-27a46947ca5a.PNG">
+- STM32 MCU에서 Deep Learning 구현
 
 ## Tutorial
 - Accelerometer 센서 값을 읽어 들인 뒤 선풍기에 붙여 이상 동작 감지
