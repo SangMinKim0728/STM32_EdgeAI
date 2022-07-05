@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ai_utilities.h": "c",
+        "data_processor.h": "c"
+    }
+}

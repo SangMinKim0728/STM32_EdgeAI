@@ -1,0 +1,9 @@
+aiSystemPerformance.c:929:12:aiTestConsole	16	static
+aiSystemPerformance.c:521:22:aiPrintLayoutBuffer	40	static
+aiSystemPerformance.c:622:13:aiDeInit	8	static
+aiSystemPerformance.c:339:5:_write	8	static
+aiSystemPerformance.c:357:7:__wrap_malloc	16	static
+aiSystemPerformance.c:382:6:__wrap_free	8	static
+aiSystemPerformance.c:960:5:aiSystemPerformanceInit	88	static
+aiSystemPerformance.c:990:5:aiSystemPerformanceProcess	128	static
+aiSystemPerformance.c:1060:6:aiSystemPerformanceDeInit	8	static

@@ -1,0 +1,5 @@
+../X-CUBE-AI/App/aiTestHelper.c:37:6:aiPlatformVersion	24	static
+../X-CUBE-AI/App/aiTestHelper.c:48:8:aiBufferSize	0	static
+../X-CUBE-AI/App/aiTestHelper.c:53:6:aiLogErr	4	static
+../X-CUBE-AI/App/aiTestHelper.c:63:6:aiPrintLayoutBuffer	24	static
+../X-CUBE-AI/App/aiTestHelper.c:100:6:aiPrintNetworkInfo	24	static

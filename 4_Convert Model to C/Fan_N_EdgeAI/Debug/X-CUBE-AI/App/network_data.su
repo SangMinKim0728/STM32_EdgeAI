@@ -1,0 +1,2 @@
+../X-CUBE-AI/App/network_data.c:422:11:ai_network_data_weights_get	0	static
+../X-CUBE-AI/App/network_data.c:441:9:ai_network_data_params_get	32	static

@@ -1,0 +1,9 @@
+../X-CUBE-AI/App/aiTestUtility.h:291:26:cyclesCounterEnd	40	static
+../X-CUBE-AI/App/aiSystemPerformance.c:312:15:user_observer_cb	32	static
+../X-CUBE-AI/App/aiSystemPerformance.c:273:13:aiDeInit	8	static
+../X-CUBE-AI/App/aiSystemPerformance.c:643:12:aiTestConsole	16	static
+../X-CUBE-AI/App/aiSystemPerformance.c:336:6:aiObserverInit	80	static
+../X-CUBE-AI/App/aiSystemPerformance.c:375:6:aiObserverDone	160	static
+../X-CUBE-AI/App/aiSystemPerformance.c:677:5:aiSystemPerformanceInit	104	static
+../X-CUBE-AI/App/aiSystemPerformance.c:696:5:aiSystemPerformanceProcess	160	static,ignoring_inline_asm
+../X-CUBE-AI/App/aiSystemPerformance.c:773:6:aiSystemPerformanceDeInit	8	static

@@ -1,0 +1,14 @@
+../X-CUBE-AI/App/aiTestUtility.c:158:5:ioRawGetUint8	8	static
+../X-CUBE-AI/App/aiTestUtility.c:216:6:ioRawWriteBuffer	8	static
+../X-CUBE-AI/App/aiTestUtility.c:225:6:ioRawReadBuffer	8	static
+../X-CUBE-AI/App/aiTestUtility.c:234:6:ioRawDisableLLWrite	0	static
+../X-CUBE-AI/App/aiTestUtility.c:245:5:_write	8	static
+../X-CUBE-AI/App/aiTestUtility.c:327:7:__wrap_malloc	16	static
+../X-CUBE-AI/App/aiTestUtility.c:367:6:__wrap_free	8	static
+../X-CUBE-AI/App/aiTestUtility.c:418:6:stackMonInit	16	static
+../X-CUBE-AI/App/aiTestUtility.c:476:6:dwtIpInit	0	static
+../X-CUBE-AI/App/aiTestUtility.c:489:10:systemCoreClock	0	static
+../X-CUBE-AI/App/aiTestUtility.c:500:5:dwtCyclesToTime	48	static
+../X-CUBE-AI/App/aiTestUtility.c:517:7:dwtCyclesToFloatMs	24	static
+../X-CUBE-AI/App/aiTestUtility.c:566:10:getFlashCacheConf	0	static
+../X-CUBE-AI/App/aiTestUtility.c:571:6:systemSettingLog	48	static

@@ -1,0 +1,8 @@
+../Core/Src/main.c:103:6:AccelWrite	24	static
+../Core/Src/main.c:112:6:AccelReadValues	24	static
+../Core/Src/main.c:119:6:AccelReadAddress	24	static
+../Core/Src/main.c:125:6:AccelInit	8	static
+../Core/Src/main.c:231:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:139:5:main	96	static,ignoring_inline_asm
+../Core/Src/main.c:360:6:MX_USART2_UART_Init	8	static,ignoring_inline_asm
+../Core/Src/main.c:477:6:Error_Handler	0	static,ignoring_inline_asm
